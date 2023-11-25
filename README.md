@@ -13,6 +13,10 @@ Home Page-
 
 <img width="1440" alt="ss-homepage" src="https://github.com/Neharoy0/Django-CRM/assets/55700384/2d545fa2-c126-4f80-aa7a-cdb09f775020">
 
+Add Record - 
+
+<img width="484" alt="ss-addrec" src="https://github.com/Neharoy0/Django-CRM/assets/55700384/f0eb46e2-94e7-4eae-9446-a7737d50968f">
+
 ## Technolgies
 * Python
 * Django
